@@ -3,81 +3,81 @@ EXP 1(IDENTIFER,CONSTANTS,OPERATORS)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP%201(identifer%2Cconstants%2C%20operators)<br>
 ![2023-02-03 (10)](https://user-images.githubusercontent.com/114045813/216751103-191f42a1-64ca-46af-a8f6-7b23d7217084.png)
 <br>
-EXP 1()<br>
+EXP 2(given line is a comment or not)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP%202(given%20line%20is%20a%20comment%20or%20not%20)<br>
+<br>
+EXP 3()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 4()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 5()<br>
 <br>
 <br>
-EXP 1()<br>
-<br>
-<br>
-EXP 1()<br>
+EXP 6()<br>
 <br>
 <br>
 EXP-7(first predicative parser) <br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/FIRST-%20predictive%20parser <br>
 ![2023-02-01 (2)](https://user-images.githubusercontent.com/114045813/216750029-4f41a46e-0924-4029-813e-6c4ad8f48d5e.png) <br>
-EXP 1()<br>
+EXP 8()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 9()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 10()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 11()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 12()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 13()<br>
 <br>
-<br>EXP 1()<br>
-<br>
-<br>
-EXP 1()<br>
+<br>EXP 14()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 15()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 16()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 17()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 18()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 19()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 20()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 21()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 22()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 23()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 24()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 25()<br>
 <br>
 <br>
-EXP 1()<br>
+EXP 26()<br>
+<br>
+<br>
+EXP 27()<br>
 <br>
 <br>
 EXP 28-CHECK WHETHER EMAIL IS VAID <br>
