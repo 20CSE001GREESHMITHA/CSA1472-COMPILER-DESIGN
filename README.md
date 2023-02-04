@@ -46,10 +46,14 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP11(s
 EXP 12()<br>
 <br>
 <br>
-EXP 13()<br>
+EXP 13(Top Down or Bottom Up parsing)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp13(top%20down%20or%20bottom%20up%20parsing)<br>
+![2023-02-04 (5)](https://user-images.githubusercontent.com/114045813/216758645-4380b867-cd17-4427-b00f-50e285b5716d.png)
 <br>
-<br>EXP 14()<br>
+EXP 14(Shift reduce parsing )<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp14(Shift%20reduce%20parsing%20)
 <br>
+![2023-02-04 (4)](https://user-images.githubusercontent.com/114045813/216758093-64e63834-b591-408e-860b-e87967ada837.png)
 <br>
 EXP 15()<br>
 <br>
@@ -57,14 +61,20 @@ EXP 15()<br>
 EXP 16()<br>
 <br>
 <br>
-EXP 17()<br>
+EXP 17(scan and count)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp17(Scan%20and%20Count%20)
 <br>
+![2023-02-04 (1)](https://user-images.githubusercontent.com/114045813/216758072-2076c43f-8c0c-4453-94b7-1ec23ba59860.png)
 <br>
-EXP 18()<br>
+EXP 18(the back end of the compiler)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp18(the%20back%20end%20of%20the%20compiler)
 <br>
+![2023-02-04 (2)](https://user-images.githubusercontent.com/114045813/216758137-f650e169-6e80-4e0c-a250-4f4bc55ce6fb.png)
 <br>
-EXP 19()<br>
+EXP 19(LEADING–operator)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp19(LEADING%E2%80%93%20operator%20precedence%20)
 <br>
+![2023-02-04](https://user-images.githubusercontent.com/114045813/216758119-0f0f9a98-5658-4821-9b81-17e0ed57f156.png)
 <br>
 EXP 20()<br>
 <br>
