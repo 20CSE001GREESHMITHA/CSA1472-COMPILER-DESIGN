@@ -15,11 +15,11 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP-4(V
 ![Screenshot (4)](https://user-images.githubusercontent.com/114045813/216751638-638378d3-d30d-4e77-b7a4-f63c50af2f9b.png)
 <br>
 EXP 5(whitespaces and newline characters )<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP5(whitespaces%20and%20newline%20characters%20)<br>
 ![Screenshot (5)](https://user-images.githubusercontent.com/114045813/216751655-a3d61a72-173f-4bc6-9823-1a8b91c21e13.png)
 <br>
 EXP 6(IDENTIFER IS VALID OR NOT)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP6(IDENTIFIER%20IS%20VALID%20OR%20NOT)<br>
 ![Screenshot (6)](https://user-images.githubusercontent.com/114045813/216751746-79ed2619-1b01-4b7b-9757-b561b397b247.png)
 <br>
 EXP-7(first predicative parser) <br>
@@ -27,15 +27,19 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/FIRST-%
 ![2023-02-01 (2)](https://user-images.githubusercontent.com/114045813/216750029-4f41a46e-0924-4029-813e-6c4ad8f48d5e.png) <br>
 EXP 8()<br>
 <br>
+![Screenshot (7)](https://user-images.githubusercontent.com/114045813/216752038-b6fa8fde-7c62-4863-a806-7ef1734e7a73.png)
 <br>
 EXP 9()<br>
 <br>
+![Screenshot (8)](https://user-images.githubusercontent.com/114045813/216752048-0f5f7718-4285-4ca1-915c-91d5f8b976d4.png)
 <br>
 EXP 10()<br>
 <br>
+![Screenshot (9)](https://user-images.githubusercontent.com/114045813/216752063-365e81fc-1092-449d-b14b-5391de945d93.png)
 <br>
 EXP 11()<br>
 <br>
+![Screenshot (10)](https://user-images.githubusercontent.com/114045813/216752080-85157695-c549-46d8-aabb-19e5a53eae91.png)
 <br>
 EXP 12()<br>
 <br>
