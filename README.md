@@ -26,19 +26,21 @@ EXP-7(first predicative parser) <br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/FIRST-%20predictive%20parser <br>
 ![2023-02-01 (2)](https://user-images.githubusercontent.com/114045813/216750029-4f41a46e-0924-4029-813e-6c4ad8f48d5e.png) <br>
 EXP 8()<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP8(FOLLOW-%20predictive%20parser%20)
 <br>
 ![Screenshot (7)](https://user-images.githubusercontent.com/114045813/216752038-b6fa8fde-7c62-4863-a806-7ef1734e7a73.png)
 <br>
 EXP 9()<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP9%20(left%20recursion%20)
 <br>
 ![Screenshot (8)](https://user-images.githubusercontent.com/114045813/216752048-0f5f7718-4285-4ca1-915c-91d5f8b976d4.png)
 <br>
 EXP 10()<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP10(eliminate%20left%20factoring%20)<br>
 ![Screenshot (9)](https://user-images.githubusercontent.com/114045813/216752063-365e81fc-1092-449d-b14b-5391de945d93.png)
 <br>
 EXP 11()<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP11(symbol%20table%20operations)<br>
 ![Screenshot (10)](https://user-images.githubusercontent.com/114045813/216752080-85157695-c549-46d8-aabb-19e5a53eae91.png)
 <br>
 EXP 12()<br>
@@ -95,7 +97,31 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/to%20ch
 EXP(lex capital)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/lex%20capital<br>
 ![2023-02-01 (3)](https://user-images.githubusercontent.com/114045813/216750409-7f556c96-da4b-43fd-9703-76f4bbe67662.png)<br>
-EXP 1()<br>
+EXP 31()<br>
+<br>
+<br>
+EXP 32()<br>
+<br>
+<br>
+EXP 33()<br>
+<br>
+<br>
+EXP 34()<br>
+<br>
+<br>
+EXP 35()<br>
+<br>
+<br>
+EXP 36()<br>
+<br>
+<br>
+EXP 37()<br>
+<br>
+<br>
+EXP 38()<br>
+<br>
+<br>
+EXP 39()<br>
 <br>
 <br>
 EXP-40(MATHEMATICAL OPERATIONS)<br>
