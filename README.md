@@ -5,18 +5,22 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP%201
 <br>
 EXP 2(given line is a comment or not)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP%202(given%20line%20is%20a%20comment%20or%20not%20)<br>
+![Screenshot (3)](https://user-images.githubusercontent.com/114045813/216751600-96e135d8-20d7-43ce-9f45-46693f9cfcc0.png)
 <br>
 EXP 3()<br>
 <br>
 <br>
-EXP 4()<br>
+EXP 4(VALIDATE OPERATORS)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/EXP-4(VALIDATE%20OPERATORS)<br>
+![Screenshot (4)](https://user-images.githubusercontent.com/114045813/216751638-638378d3-d30d-4e77-b7a4-f63c50af2f9b.png)
 <br>
+EXP 5(whitespaces and newline characters )<br>
 <br>
-EXP 5()<br>
+![Screenshot (5)](https://user-images.githubusercontent.com/114045813/216751655-a3d61a72-173f-4bc6-9823-1a8b91c21e13.png)
 <br>
+EXP 6(IDENTIFER IS VALID OR NOT)<br>
 <br>
-EXP 6()<br>
-<br>
+![Screenshot (6)](https://user-images.githubusercontent.com/114045813/216751746-79ed2619-1b01-4b7b-9757-b561b397b247.png)
 <br>
 EXP-7(first predicative parser) <br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/FIRST-%20predictive%20parser <br>
