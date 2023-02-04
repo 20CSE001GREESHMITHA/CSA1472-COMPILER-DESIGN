@@ -5,3 +5,6 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/FIRST-%
 EXP-CHECK WHETHER EMAIL IS VAID <br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/to%20check%20whether%20email%20is%20valid%20are%20not <br>
 ![2023-02-03 (2)](https://user-images.githubusercontent.com/114045813/216750125-2bb2d523-6a90-49c7-8085-575f832fb0bf.png) <br>
+exp(lex capital)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/lex%20capital<br>
+![2023-02-01 (3)](https://user-images.githubusercontent.com/114045813/216750409-7f556c96-da4b-43fd-9703-76f4bbe67662.png)<br>
