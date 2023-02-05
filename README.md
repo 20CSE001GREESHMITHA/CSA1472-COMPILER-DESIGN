@@ -130,7 +130,6 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp38%2
 <br>
 EXP 39(dight or not)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp39(digit%20or%20not)
-
 <br>
 ![2023-02-03 (4)](https://user-images.githubusercontent.com/114045813/216823114-3b9a2db4-4648-4e03-b574-24e63d6ff8fd.png)
 <br>
