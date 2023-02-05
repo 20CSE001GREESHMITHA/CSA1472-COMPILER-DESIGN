@@ -72,11 +72,8 @@ EXP 24(html)<br>
 <br>
 ![2023-02-05 (4)](https://user-images.githubusercontent.com/114045813/216824519-fb2ee173-4738-4043-9839-5acef896ed7a.png)
 <br>
-EXP 25()<br>
-<br>
-<br>
 EXP 26(comment lines )<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp26%20lex(comment%20line)<br>
 ![2023-02-05](https://user-images.githubusercontent.com/114045813/216823374-4b8e74d0-1783-48e6-985a-1219a49807e2.png)
 <br>
 EXP27(lex capital)<br>
@@ -89,21 +86,24 @@ EXP(lex capital)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/lex%20capital<br>
 ![2023-02-01 (3)](https://user-images.githubusercontent.com/114045813/216750409-7f556c96-da4b-43fd-9703-76f4bbe67662.png)<br>
 EXP 29(substring)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp29%20lex(substring)
 <br>
 ![2023-02-05 (1)](https://user-images.githubusercontent.com/114045813/216823243-704ad58b-fe7f-44c7-a786-e32bb56b080a.png)
 <br>
 EXP 30(mobile number)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp30%20lex(mobile%20number)
 <br>
 ![2023-02-05 (2)](https://user-images.githubusercontent.com/114045813/216823251-b9bde7fe-b213-4800-a2d3-271bd166f200.png)
 <br>
 EXP 31(flex)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp31%20lex(flex)<br>
 ![2023-02-03 (8)](https://user-images.githubusercontent.com/114045813/216823193-1db803bb-fba1-459f-bd2c-e7438ecf58d6.png)<br>
 EXP 32(vowels)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp32(vowels)<br>
 ![2023-02-05 (3)](https://user-images.githubusercontent.com/114045813/216823999-1f9862b1-c92a-4e43-943d-137a8ad2ac41.png)
 <br>
 EXP 33(vowels)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp33%20lex(vowels%20)
 <br>
 ![2023-02-05 (3)](https://user-images.githubusercontent.com/114045813/216823996-13b3d55e-831d-433d-bffa-ad965b04f41b.png)
 <br>
