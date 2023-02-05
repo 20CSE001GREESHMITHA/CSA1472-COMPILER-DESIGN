@@ -108,25 +108,29 @@ EXP 33(vowels)<br>
 ![2023-02-05 (3)](https://user-images.githubusercontent.com/114045813/216823996-13b3d55e-831d-433d-bffa-ad965b04f41b.png)
 <br>
 EXP 34(keywords and identifiers)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp34%20lex(keywords%20and%20identifiers)<br>
 ![2023-02-03 (8)](https://user-images.githubusercontent.com/114045813/216823193-1db803bb-fba1-459f-bd2c-e7438ecf58d6.png)
 <br>
 EXP 35(numbers and words)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp35%20lex(numbers%20and%20words)<br>
 ![2023-02-03 (6)](https://user-images.githubusercontent.com/114045813/216823152-85b4069f-a317-41e0-be08-61779ebb9d82.png)
 <br>
 EXP 36(positive and negitive)<br>
-<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp36%20lex(postive%20and%20negitive)<br>
 ![2023-02-03](https://user-images.githubusercontent.com/114045813/216822917-8bcb2d9d-b33a-4778-9dbd-02b783ae0e86.png)
 <br>
 EXP 37(url)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp37%20lex(url)
 <br>
 ![2023-02-03 (5)](https://user-images.githubusercontent.com/114045813/216823133-78680916-4b12-42dd-bac5-c674fb1f9cd0.png)
 <br>
 EXP 38(dob)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp38%20lex(dob)<br>
+![2023-02-03 (1)](https://user-images.githubusercontent.com/114045813/216825589-c81e9591-a247-480d-8962-acd422239df9.png)
 <br>
 EXP 39(dight or not)<br>
+https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp39(digit%20or%20not)
+
 <br>
 ![2023-02-03 (4)](https://user-images.githubusercontent.com/114045813/216823114-3b9a2db4-4648-4e03-b574-24e63d6ff8fd.png)
 <br>
