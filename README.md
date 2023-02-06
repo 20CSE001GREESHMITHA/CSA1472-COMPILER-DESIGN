@@ -49,6 +49,9 @@ https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp14(S
 <br>
 ![2023-02-04 (4)](https://user-images.githubusercontent.com/114045813/216758093-64e63834-b591-408e-860b-e87967ada837.png)
 <br>
+EXP15(OPERATOR PARSING)<br>
+![image](https://user-images.githubusercontent.com/114045813/216890743-fba22653-05af-4332-9300-4544baee7ea3.png)<br>
+
 EXP 17(scan and count)<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp17(Scan%20and%20Count%20)
 <br>
@@ -72,6 +75,8 @@ EXP 24(html)<br>
 <br>
 ![2023-02-05 (4)](https://user-images.githubusercontent.com/114045813/216824519-fb2ee173-4738-4043-9839-5acef896ed7a.png)
 <br>
+exp25(add lines)<br>
+![2023-02-06](https://user-images.githubusercontent.com/114045813/216890982-ad50568a-38e6-40f8-b92a-759874f57779.png)<br>
 EXP 26(comment lines )<br>
 https://github.com/20CSE001GREESHMITHA/CSA1472-COMPILER-DESIGN/blob/main/exp26%20lex(comment%20line)<br>
 ![2023-02-05](https://user-images.githubusercontent.com/114045813/216823374-4b8e74d0-1783-48e6-985a-1219a49807e2.png)
